@@ -30,7 +30,7 @@
         color: #ffd700; 
     }
     
-    nav ul input[type=text] {
+    nav ul input[type=text]  {
         float: right;
         padding: 6px;
         border: none;
